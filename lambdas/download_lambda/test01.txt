@@ -1,0 +1,5 @@
+{
+  "pathParameters": {
+    "audiokey": "parrot/test01.mp3"
+  }
+}

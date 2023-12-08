@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "photoapp-miya-liu-cs310"
+        },
+        "object": {
+          "key": "parrot/test01.txt"
+        }
+      }
+    }
+  ]
+}
